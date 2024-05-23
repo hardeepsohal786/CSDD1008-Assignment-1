@@ -1,0 +1,3 @@
+1. Given the firm's history and industry sector, write a product vision statement for Evernote Corporation.
+
+The Evernote platform is a cloud-based productivity solution that provides seamless note-taking, document management, and collaborative features for individuals and teams who require a dependable and effective way to record, organize, and retrieve their ideas and information anytime, anywhere. OUR PRODUCT offers extensive integration with several tools and services, advanced search features, and an easy user experience that improves productivity and information management—unlike traditional note-taking software or simple productivity apps.
