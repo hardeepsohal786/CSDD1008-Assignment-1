@@ -1,0 +1,19 @@
+Q2: Is Evernote a Software Product Line or Software as a Service?
+
+Answer:
+
+Evernote is mainly a Software as a Service (SaaS). 
+It means you use the internet to access Evernote rather than setting up and updating software on your own devices. 
+
+It provides tools for note-taking, archiving, organizing, and task management that you can use on many platforms
+like desktop applications, mobile apps and web browsers.
+This flexibility allows you to easily access your data from any device connected with internet. 
+
+
+However, Evernote also has some characteristics of a Software Product Line (SPL). A collection of connected software products serving various purposes is called an SPL.
+
+A software product line consists of a group of linked products that are constructed from a common set of core assets and are intended to meet the needs of various user segments or market needs.
+
+In Conclusion, Evernote fits the SaaS model but it also has elements of a Software Product Line due to its range of customized programs. 
+
+
