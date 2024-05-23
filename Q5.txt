@@ -1,0 +1,47 @@
+Persona
+
+Name: John Wick
+
+Occupation: Civil Engineer
+Age: 36
+
+John wick has over eighteen years of experience as a civil engineer, with a focus on infrastructure evaluations.
+He frequently conducts field inspections and prepares comprehensive reports.
+
+Company: Mystic Enigma
+
+Tech Savvy: High – proficient with various engineering software, frequent user of mobile and desktop applications.
+
+Work Style: Highly organized, detail-oriented, and often works in the field.
+
+User Story 1: 
+
+As a Civil Engineer,
+I want to Take detailed notes and photos during site inspections using a mobile device,
+So that I can Efficiently capture and organize all relevant information in one place.
+
+User Story 2:
+
+As a Civil Engineer, I want to Access my notes from any device,
+So that I can Review and update my findings from the office or on the go.
+
+Goals: Improve collaboration with team members and clients and Ensure quick and easy access to notes and audit findings.
+
+Backlog:
+
+Provide an UI in the mobile app that allows users to take and store notes.
+
+Include a calendar and a reminder system.
+
+Sync notes between multiple devices.
+
+
+
+
+
+
+
+
+
+
+
