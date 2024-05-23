@@ -1,0 +1,15 @@
+3. Write two personas for two potential types of users who the company expects to adopt Evernote..
+
+Yes, these are two possible Evernote user profiles:
+Sarah, the pupil
+Details: Sarah is a 20-year-old computer science major at college. She resides on campus in a dorm.
+Objectives and Requirements: Sarah is balancing a lot of classes, homework, and extracurricular activities. In order to engage with classmates on group projects, access her notes across devices, and maintain organization, she needs a tool.
+Difficulties: Sarah struggles to remember to bring all of her research materials, lecture slides, and handwritten notes. When studying for tests, she frequently forgets important dates and finds it difficult to locate precise material.
+
+How Evernote Helps: Sarah may use Evernote to transcribe her handwritten notes, save articles from the internet, and record audio lectures. She is able to quickly search for information using keywords and arrange things into notebooks. Sarah can easily collaborate on projects with her classmates and share her notes with them thanks to Evernote's collaboration tools.
+
+David, the Businessman:
+David is a 35-year-old businessman who owns and operates a digital marketing agency. He works from a busy downtown home office.
+Objectives and Requirements: David is always coming up with new ideas, interacting with clients, and overseeing the work of his staff. He requires a tool so that he may work remotely with his team, record client meetings and comments, and sketch inspiration while on the fly.
+Challenges: David has a busy schedule and finds it difficult to maintain organization. He frequently loses sight of project deadlines and forgets crucial information from customer meetings. It's also difficult for him to instantly communicate essential facts to his colleagues.
+How Evernote Helps: David uses Evernote as his digital workspace, which enables him to annotate voice memos, text messages, and photographs from any location. He is able to make notebooks specifically for each client, label notes with pertinent keywords, and add deadline reminders. David can assign tasks, track project progress in real-time, and share notebooks with his team using Evernote Business, all of which help to keep everyone in the loop.
